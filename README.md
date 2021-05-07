@@ -1,3 +1,11 @@
+Expense Tracker Dummy - to practice React context API
+
+Priview of application :
+
+![ExpenseTracker-dummy](https://user-images.githubusercontent.com/37356059/117487796-2d47e980-af89-11eb-8b73-30482f2c35c3.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
